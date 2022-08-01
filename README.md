@@ -1,3 +1,4 @@
+- 👹 Practicing!
 - 👋 Hi, I’m Diego, also known as Awka.
 - ☂️ My pronouns are he/they
 - 👀 I’m interested in coding, UX/UI and cybersecurity.
