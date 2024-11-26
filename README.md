@@ -1,6 +1,6 @@
 - 👹 Practicing!
 - 👋 Hi, I’m Diego, also known as Awka.
-- ☂️ My pronouns are he/they
+- ☂️ I use all pronouns
 - 👀 I’m interested in coding, UX/UI and cybersecurity.
-- 🌱 I’m currently learning basic coding with HTML, CSS, JS and Python
-- 📫 How to reach me awkamunozgomez@gmail.com or (telegram) @dizzy_42
+- 🌱 I’m currently learning basic coding with C and Rust.
+- 📫 How to reach me awka@sdf.org or (telegram) @dizzy_42
